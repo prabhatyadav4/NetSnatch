@@ -217,7 +217,7 @@ We welcome contributions of all kinds! Here's how you can help:
 - 🌐 **Localization**: Add multi-language support
 
 ### 📋 Good First Issues
-Check the [Issues](https://github.com/yourusername/NetSnatch/issues) tab for beginner-friendly tasks marked with `good first issue`.
+Check the [Issues](https://github.com/prabhatyadav4/NetSnatch/issues) tab for beginner-friendly tasks marked with `good first issue`.
 
 ---
 
@@ -287,8 +287,8 @@ A: Yes, but you need to enable "Allow in Incognito" in Chrome extensions setting
 - **Email**: [osrprabhatyadav4@gmail.com](osrprabhatydav4@gmail.com)
 
 ### 💬 Get Help
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/NetSnatch/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/NetSnatch/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/prabhatyadav4/NetSnatch/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/prabhatyadav4/NetSnatch/discussions)
 - 📧 **Direct Contact**: [osrprabhatyadav4@gmail.com](mailto:osrprabhatyadav4@gmail.com)
 
 ### ⭐ Show Your Support
