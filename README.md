@@ -283,12 +283,11 @@ A: Yes, but you need to enable "Allow in Incognito" in Chrome extensions setting
 
 ### 🌐 Find Me Online
 - **GitHub**: [@prabhatyadav4](https://github.com/prabhatyadav4)
-- **LinkedIn**: [Your Profile](www.linkedin.com/in/prabhat-kumar-95059531a)
+- **LinkedIn**: [Prabhat Kumar](www.linkedin.com/in/prabhat-kumar-95059531a)
 - **Email**: [osrprabhatyadav4@gmail.com](osrprabhatydav4@gmail.com)
 
 ### 💬 Get Help
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/prabhatyadav4/NetSnatch/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/prabhatyadav4/NetSnatch/discussions)
 - 📧 **Direct Contact**: [osrprabhatyadav4@gmail.com](mailto:osrprabhatyadav4@gmail.com)
 
 ### ⭐ Show Your Support
