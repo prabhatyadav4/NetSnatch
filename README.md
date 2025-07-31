@@ -4,6 +4,7 @@
 
 Whether you're a developer, designer, OSINT analyst, or just a curious internet user, NetSnatch gives you **deep visibility** into network resources and helps you **quickly extract** what you need.
 
+
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green?logo=google-chrome)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
@@ -298,6 +299,9 @@ If NetSnatch helps you, consider:
 - ☕ **Buy me a coffee** ([Ko-fi](https://ko-fi.com/prabhatkumar))
 
 ---
+<div align="center">
+<img width="600" height="500" alt="Screenshot 2025-08-01 025019" src="https://github.com/user-attachments/assets/072ffe4f-67b6-467e-8cd3-0b9f18e4ef5f" />
+</div>
 
 <div align="center">
 
