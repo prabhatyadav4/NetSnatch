@@ -4,6 +4,7 @@
 
 Whether you're a developer, designer, OSINT analyst, or just a curious internet user, NetSnatch gives you **deep visibility** into network resources and helps you **quickly extract** what you need.
 
+
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green?logo=google-chrome)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
@@ -217,7 +218,7 @@ We welcome contributions of all kinds! Here's how you can help:
 - 🌐 **Localization**: Add multi-language support
 
 ### 📋 Good First Issues
-Check the [Issues](https://github.com/yourusername/NetSnatch/issues) tab for beginner-friendly tasks marked with `good first issue`.
+Check the [Issues](https://github.com/prabhatyadav4/NetSnatch/issues) tab for beginner-friendly tasks marked with `good first issue`.
 
 ---
 
@@ -283,12 +284,11 @@ A: Yes, but you need to enable "Allow in Incognito" in Chrome extensions setting
 
 ### 🌐 Find Me Online
 - **GitHub**: [@prabhatyadav4](https://github.com/prabhatyadav4)
-- **LinkedIn**: [Your Profile](www.linkedin.com/in/prabhat-kumar-95059531a)
+- **LinkedIn**: [Prabhat Kumar](www.linkedin.com/in/prabhat-kumar-95059531a)
 - **Email**: [osrprabhatyadav4@gmail.com](osrprabhatydav4@gmail.com)
 
 ### 💬 Get Help
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/NetSnatch/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/NetSnatch/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/prabhatyadav4/NetSnatch/issues)
 - 📧 **Direct Contact**: [osrprabhatyadav4@gmail.com](mailto:osrprabhatyadav4@gmail.com)
 
 ### ⭐ Show Your Support
@@ -299,6 +299,9 @@ If NetSnatch helps you, consider:
 - ☕ **Buy me a coffee** ([Ko-fi](https://ko-fi.com/prabhatkumar))
 
 ---
+<div align="center">
+<img width="600" height="500" alt="Screenshot 2025-08-01 025019" src="https://github.com/user-attachments/assets/072ffe4f-67b6-467e-8cd3-0b9f18e4ef5f" />
+</div>
 
 <div align="center">
 
